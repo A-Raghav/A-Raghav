@@ -8,6 +8,7 @@
 **StatsIE — a research assistant for Ireland’s CSO data**  
 Hybrid retrieval + agentic Python analysis on CSO datasets, wrapped in a conversational UI (Chainlit), deployed on GCP (Cloud Run). Makes finding the *right* table and getting first insights a one-message job.
 
+Try out StatsEye: [StatsEye-Assistant](https://statseye-assistant.com)
 ---
 
 ## 🧰 Core stack
