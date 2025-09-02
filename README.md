@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 What I’m building now
-**StatsIE — a research assistant for Ireland’s CSO data**  
+**StatsEye — a research assistant for Ireland’s CSO data**  
 Hybrid retrieval + agentic Python analysis on CSO datasets, wrapped in a conversational UI (Chainlit), deployed on GCP (Cloud Run). Makes finding the *right* table and getting first insights a one-message job.
 
 Designed to transform how researchers, analysts, and curious minds interact with statistical data available on [Data-CSO website](www.data.cso.ie). Try the [StatsEye-Assistant](https://statseye-assistant.com) now!
@@ -33,7 +33,7 @@ Check out my GitHub repo [here](https://github.com/A-Raghav/Data-CSO-Bot).
 ---
 
 ## 🔎 My projects
-- **StatsIE / Data-CSO-Bot** — AI agent over Ireland’s CSO datasets (LangGraph, hybrid retrieval, Python analysis).  
+- **StatsEye / Data-CSO-Bot** — AI agent over Ireland’s CSO datasets (LangGraph, hybrid retrieval, Python analysis).  
   Repo: `A-Raghav/Data-CSO-Bot`
 - **Multi-Agent LLM Research Assistant** — CrewAI-based agents that help draft research sections with structured prompts.  
   Repo: `A-Raghav/Multi-Agent-LLM-Research-Assistant`
