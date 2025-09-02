@@ -8,7 +8,20 @@
 **StatsIE — a research assistant for Ireland’s CSO data**  
 Hybrid retrieval + agentic Python analysis on CSO datasets, wrapped in a conversational UI (Chainlit), deployed on GCP (Cloud Run). Makes finding the *right* table and getting first insights a one-message job.
 
-Try out StatsEye: [StatsEye-Assistant](https://statseye-assistant.com)
+Designed to transform how researchers, analysts, and curious minds interact with statistical data available on [Data-CSO website](www.data.cso.ie). Try the [StatsEye-Assistant](https://statseye-assistant.com) now!
+
+Tools and frameworks used:
+- LangGraph (for agent orchestration)
+- FAISS Vector DB (for storing vector embeddings)
+- Gemini 2.5-flash (API) and Gemini embedding model
+- Redis (for checkpointing and long-term memory storage)
+- Chainlit (UI-wrapper on React front-end)
+- Google Cloud Run (for deployment)
+- Docker (for containerising)
+
+Check out my GitHub repo [here](https://github.com/A-Raghav/Data-CSO-Bot).
+
+
 ---
 
 ## 🧰 Core stack
